@@ -1,0 +1,1 @@
+Magnifying glass figure developed with HTML5 and CSS3.
